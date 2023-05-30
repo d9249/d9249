@@ -2,7 +2,7 @@
 
 My Portfolio: [bit.ly/mean__](https://ideal96.notion.site/055c5c9a4b9e4ccf810c3b06d738cb5a)
 
-My CV: [https://url.kr/gc24m3](https://docs.google.com/document/d/1wE-MhNCfW51HQ8ltF2VYuhwa-Ht_l86r5lIUi38Oo9U/edit?usp=sharing)
+My CV: [url.kr/gc24m3](https://docs.google.com/document/d/1wE-MhNCfW51HQ8ltF2VYuhwa-Ht_l86r5lIUi38Oo9U/edit?usp=sharing)
 
 <!--
 **d9249/d9249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
