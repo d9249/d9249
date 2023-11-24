@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on graph neural network based recommender system
+- 🔭 I’m currently working on forecasting on time series data
 - 📫 How to reach me: dodo9249@gmail.com
 
 ### My Links
