@@ -8,3 +8,4 @@
 - [Resume(Slashpage)](https://slashpage.com/ideal) <br>
 - [Notion Portfolio](http://ideal96.notion.site/) <br>
 - [LinkedIn](https://www.linkedin.com/in/mean42/) <br>
+- [DACON](https://dacon.io/myprofile/423689/) <br>
