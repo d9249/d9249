@@ -61,6 +61,6 @@
 
 - "추천 시스템에서 그래프 컨볼루션 네트워크 최적화 방법", 2024.02
 
-### 📫 How to reach me: dodo9249@gmail.com
-
 <img src="https://wakatime.com/share/@667c9955-3f05-4096-b1ad-2f7cf5813194/98337dd7-8ec0-46a5-8db5-1f36643be0fa.svg"></embed>
+
+### 📫 How to reach me: dodo9249@gmail.com
