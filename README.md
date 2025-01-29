@@ -35,8 +35,9 @@
 
 1. CES 2025 Best of Innovation Award - Artificial Intelligence 분야
 2. CES 2025 Innovation Awards Honoree - Artificial Intelligence 분야
-3. KIIT Best Paper Award (2021)
-4. APIC-IST 2022 Best Paper Award
+3. HD현대 AI Challenge - 4위
+4. KIIT Best Paper Award (2021)
+5. APIC-IST 2022 Best Paper Award
 
 ## SCIE 저널
 
