@@ -64,7 +64,7 @@
 <img src="https://wakatime.com/share/@667c9955-3f05-4096-b1ad-2f7cf5813194/98337dd7-8ec0-46a5-8db5-1f36643be0fa.svg"></embed>
 
 <p align="center">
-  ![Lucidus](https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v1?  theme=blue&name=Sangmin%20Lee&job=AI%2FML%20Engineer&company=Artygenspace&address=Seoul%2C%20korea&about=Work%20is%20so%20hard..&email=d9249%40artygenspace.com&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Fmeanl)
+  <img src="https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v1?  theme=blue&name=Sangmin%20Lee&job=AI%2FML%20Engineer&company=Artygenspace&address=Seoul%2C%20korea&about=Work%20is%20so%20hard..&email=d9249%40artygenspace.com&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Fmeanl">
 </p>
 
 ### 📫 How to reach me: dodo9249@gmail.com
