@@ -2,11 +2,19 @@
 
 ## 헤드라인
 
-- AI Research Engineer | Computer Vision, LLM & Recommendation Systems | MLOps Engineer | CES 2025 Innovation Award Winner
+- AI Research & MLOps Engineer | CV, LLM, RS | 연구와 상용화를 아우르는 AI 기술 리더 |
 
-## 소개글
+## 프로필 소개글
 
-- 인공지능 연구 및 개발에 특화된 엔지니어로, 컴퓨터 비전과 추천 시스템 분야에서 혁신적인 솔루션을 개발하고 있습니다. CES 2025에서 두 개의 혁신상을 수상한 AI 기반 서비스의 핵심 개발자로서, 대규모 언어 모델(LLM)과 컴퓨터 비전 기술을 결합한 혁신적인 제품들을 성공적으로 출시했습니다.
+인공지능 연구개발과 사업화에서 검증된 성과를 보유한 AI Research & MLOps Engineer입니다. 
+
+CES 2025에서 두 개의 AI 부문 Best of Innovation을 수상하며 국제적으로 기술력을 인정받았고, 과학기술정보통신부 장관상(WIS 2025 혁신상)을 수상하여 국내에서도 혁신성을 입증했습니다.
+
+LLM/RAG, 컴퓨터 비전, 추천시스템 분야의 전문성을 바탕으로 연구논문부터 상용서비스까지 전 과정을 주도해왔습니다. 
+
+특히 SCIE급 국제저널 3편 게재와 Best Paper Award 수상 등 학술적 성과와 함께, 다수의 정부 R&D 사업을 기술 리더로서 총괄하며 이론과 실무를 모두 겸비했습니다.
+
+현재 ArtygenSpace에서 혁신적인 AI 제품들의 기술 개발을 총괄하고 있으며, Docker/Kubernetes 기반 MLOps 인프라 구축부터 멀티모달 AI 시스템 개발까지 End-to-End AI 솔루션 구현 역량을 보유하고 있습니다.
 
 ## 주요 경력
 
