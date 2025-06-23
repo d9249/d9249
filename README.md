@@ -65,7 +65,7 @@ LLM/RAG, 컴퓨터 비전, 추천시스템 분야의 전문성을 바탕으로 �
 
 ### SCIE 저널
 
-1. "Embedding Enhancement method for LightGCN in Recommendation Information Systems", MDPI Electronics, 2024 (IF, Citations: 6회)
+1. "Embedding Enhancement method for LightGCN in Recommendation Information Systems", MDPI Electronics, 2024 (IF, Citations: 10회)
 2. "Weighted Forwarding in Graph Convolution Networks for Recommendation Information System", Computers Materials & Continua (CMC), 2024
 3. "Deep Learning Model Ensemble for the Accuracy of Classification Degenerative Arthritis", Computers Materials & Continua (CMC), 2023 (IF, Citations: 7회)
 
