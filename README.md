@@ -2,23 +2,23 @@
 
 ## 헤드라인
 
-- AI Research & MLOps Engineer | CV, LLM, RS | 연구와 상용화를 아우르는 AI 기술 리더 |
+- AI Research & MLOps Engineer | CV, LLM, RS | 연구와 상용화를 아우르는 AI/ML Engineer |
 
 ## 프로필 소개글
 
-인공지능 연구개발과 사업화에서 검증된 성과를 보유한 AI Research & MLOps Engineer입니다. 
-
-CES 2025에서 두 개의 AI 부문 Best of Innovation을 수상하며 국제적으로 기술력을 인정받았고, 과학기술정보통신부 장관상(WIS 2025 혁신상)을 수상하여 국내에서도 혁신성을 입증했습니다.
-
-LLM/RAG, 컴퓨터 비전, 추천시스템 분야의 전문성을 바탕으로 연구논문부터 상용서비스까지 전 과정을 주도해왔습니다. 
-
-특히 SCIE급 국제저널 3편 게재와 Best Paper Award 수상 등 학술적 성과와 함께, 다수의 정부 R&D 사업을 기술 리더로서 총괄하며 이론과 실무를 모두 겸비했습니다.
-
-현재 ArtygenSpace에서 혁신적인 AI 제품들의 기술 개발을 총괄하고 있으며, Docker/Kubernetes 기반 MLOps 인프라 구축부터 멀티모달 AI 시스템 개발까지 End-to-End AI 솔루션 구현 역량을 보유하고 있습니다.
+인공지능 연구개발과 사업화에서 검증된 성과를 보유한 AI/ML Engineer입니다.
 
 ## 주요 경력
 
-- ArtygenSpace - AI Research Engineer (2024/07 - 현재)
+- ArtygenSpace - AI/ML Engineer (2024/07 - 2025/07)
+
+CES 2025에서 두 개의 AI 부문 Best of Innovation을 수상하며 국제적으로 기술력을 인정받았고, 과학기술정보통신부 장관상(WIS 2025 혁신상)을 수상하여 국내에서도 혁신성을 입증했습니다.
+
+LLM/RAG, 컴퓨터 비전, 추천시스템 분야의 전문성을 바탕으로 연구논문부터 상용서비스까지 전 과정을 주도해왔으며, 다수의 정부 R&D 사업을 기술 리더로서 총괄하며 이론과 실무를 모두 겸비했습니다.
+
+ArtygenSpace에서 혁신적인 AI 제품들의 기술 개발을 총괄하였으며, Docker/Kubernetes 기반 MLOps 인프라 구축부터 멀티모달 AI 시스템 개발까지 End-to-End AI 솔루션 구현 하였습니다.
+
+- A - AI/ML Engineer (2024/07 - 2025/07)
 
 ### 핵심 기술 역량
 * 언어 모델 & RAG 기술
