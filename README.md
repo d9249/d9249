@@ -1,6 +1,8 @@
 # Hi there 👋
 
-## AI Research & MLOps Engineer | CV, LLM, RS | 연구와 상용화를 아우르는 AI/ML Engineer
+## AI & MLOps Engineer | CV, LLM, RS |
+
+**💡 전문 분야**: End-to-End AI 솔루션 구현 | 연구부터 상용화까지 전 과정 주도 | 이론과 실무를 겸비한 기술 리더십
 
 CES 2025 AI 부문 Best of Innovation 수상과 과학기술정보통신부 장관상을 수상한 AI/ML Engineer로서, 연구논문부터 상용서비스까지 전 과정을 주도하는 End-to-End AI 솔루션 전문가입니다.
 
@@ -28,6 +30,8 @@ CES 2025 AI 부문 Best of Innovation 수상과 과학기술정보통신부 장�
 - 문화체육관광부 한국콘텐츠진흥원 AI 콘텐츠 제작지원 사업 (2024-2025)
 - AI바우처 운영지원 사업 공급기업 선정 (2025) - 4개 프로젝트 총괄
 - 중소기업 연구인력지원사업 협약 (2025)
+
+---
 
 ### A - AI/ML Engineer (2025.07 - Current)
 AI 엔지니어
@@ -78,5 +82,3 @@ AI 엔지니어
 <img src="https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v1?theme=blue&name=Sangmin%20Lee&job=AI%2FML%20Engineer&company=Artygenspace&address=Seoul%2C%20korea&about=Work%20is%20so%20hard..&email=d9249%40artygenspace.com&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Fmeanl">
 
 ---
-
-**💡 전문 분야**: End-to-End AI 솔루션 구현 | 연구부터 상용화까지 전 과정 주도 | 이론과 실무를 겸비한 기술 리더십
