@@ -39,15 +39,38 @@ AI 엔지니어
 ## 🛠 Technical Expertise
 
 ### AI/ML Core Technologies
-- **Large Language Models & RAG**: Agent 시스템, Prompt Engineering, 멀티모달 모델 활용
-- **Computer Vision**: OpenCV, imagehash 기반 영상처리, 객체 탐지 시스템
+- **Large Language Models & RAG**: LangSmith, LangGraph, Agent 시스템, Prompt Engineering, 멀티모달 모델 활용
+- **Machine Learning Frameworks**: PyTorch, Scikit-learn, Pandas, NumPy
+- **Computer Vision**: OpenCV, ImageHash, Pillow 기반 영상처리, 객체 탐지 시스템  
 - **Recommendation Systems**: Graph Convolution Networks, 개인화 추천 알고리즘
+- **Data Processing**: BeautifulSoup, Pandas, NumPy를 활용한 데이터 전처리 및 분석
+- **Model Architecture**: CNN, RNN, GCN 등 다양한 신경망 아키텍처 설계 및 최적화
+- **Deep Learning Frameworks**: PyTorch, TensorFlow 기반 모델 설계 및 학습
+
+### Back-end Development
+- **API Development**: FastAPI, Unicorn 기반 고성능 API 서버 구축
+- **Programming Languages**: Python (전문), AI/ML 도메인 특화 개발
+- **Stream Processing**: Apache Kafka, Kafka UI 기반 실시간 데이터 처리
+- **Web Frameworks**: Streamlit 기반 ML 대시보드 및 프로토타입 개발
+
+### Data Engineering & Database
+- **Vector Database**: Qdrant 활용 벡터 검색 및 임베딩 시스템
+- **Search & Analytics**: Elasticsearch, Logstash, Kibana (ELK Stack) 구축 및 운영
+- **Data Visualization**: Kibana 대시보드 구성 및 로그 분석
 
 ### MLOps & Infrastructure
-- **Model Serving**: Docker, FastAPI, Apache Kafka, OAuth2 기반 API 구축
-- **Container Orchestration**: Kubernetes, ELK Stack 배포 자동화 및 모니터링
-- **CI/CD & Cloud**: GitHub Actions, NCP, AWS, GCP 인프라 관리
-- **Vector Database**: Qdrant 활용 벡터 검색 시스템
+- **Experiment Tracking**: Weights & Biases (wandb) 기반 모델 학습 추적 및 실험 관리
+- **Container Technology**: Docker, Docker Compose 기반 컨테이너화
+- **Orchestration**: Kubernetes 클러스터 구축 및 배포 자동화
+- **Cloud Platforms**: AWS (SageMaker, CLI), Naver Cloud Platform 인프라 관리
+- **Operating Systems**: Ubuntu 서버 환경 구축 및 관리
+- **CI/CD**: GitHub Actions 기반 자동화 파이프라인 구축
+
+### Development & Collaboration Tools
+- **API Testing**: Postman 활용 API 개발 및 테스트
+- **Documentation**: Notion 기반 기술 문서화 및 협업
+- **Testing**: PyTest 기반 단위 테스트 및 통합 테스트
+- **Version Control**: Git, GitHub 기반 협업 및 코드 관리
 
 ## 🎓 Education
 
