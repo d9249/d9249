@@ -33,8 +33,8 @@ CES 2025 AI 부문 Best of Innovation 수상과 과학기술정보통신부 장�
 
 ---
 
-### A - AI/ML Engineer (2025.07 - Current)
-AI 엔지니어
+### AsianaIDT - AI/ML Researcher (2025.07 - Current)
+인공지능 기반 솔루션 및 플랫폼 개발
 
 ## 🛠 Technical Expertise
 
