@@ -102,6 +102,6 @@ CES 2025 AI 부문 Best of Innovation 수상과 과학기술정보통신부 장�
 
 **Email:** dodo9249@gmail.com
 
-<img src="https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v1?theme=blue&name=Sangmin%20Lee&job=AI%2FML%20Engineer&company=Artygenspace&address=Seoul%2C%20korea&about=Work%20is%20so%20hard..&email=d9249%40artygenspace.com&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Fmeanl">
+<img src="https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v1?theme=blue&name=Sangmin%20Lee&job=AI%20Researcher&company=AsianaIDT&address=Seoul%2C%20korea&about=Work%20is%20so%20hard..&email=leesm4%40asianaidt.com&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Fmeanl">
 
 ---
