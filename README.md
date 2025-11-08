@@ -33,7 +33,7 @@
 
 ---
 
-### AsianaIDT - AI/ML Researcher (2025.07 - Current)
+### AsianaIDT - AI/ML Engineer & Researcher (2025.07 - Current)
 인공지능 기반 솔루션 및 플랫폼 개발
 
 1. Plan2do - 법령 기반 산업안전 RAG 시스템 구축 
