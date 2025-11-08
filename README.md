@@ -1,10 +1,10 @@
 # Hi there 👋
 
-## AI & MLOps Engineer | CV, LLM, RS |
+## AI Engineer & Research | CV, LLM, RS |
 
-**💡 전문 분야**: End-to-End AI 솔루션 구현 | 연구부터 상용화까지 전 과정 주도 | 이론과 실무를 겸비한 기술 리더십
+**💡 전문 분야**: End-to-End AI 솔루션 구현 | 연구부터 상용화까지 전 과정 주도 | 이론과 실무를 겸비한 기술
 
-CES 2025 AI 부문 Best of Innovation 수상과 과학기술정보통신부 장관상을 수상한 AI/ML Engineer로서, 연구논문부터 상용서비스까지 전 과정을 주도하는 End-to-End AI 솔루션 전문가입니다.
+다양한 도메인에 연구 및 상용화를 경험한 AI/ML Engineer로서, 연구논문부터 상용서비스까지 전 과정을 주도하는 End-to-End AI 솔루션 전문가입니다.
 
 ## 🏆 Awards & Recognition
 
@@ -35,6 +35,9 @@ CES 2025 AI 부문 Best of Innovation 수상과 과학기술정보통신부 장�
 
 ### AsianaIDT - AI/ML Researcher (2025.07 - Current)
 인공지능 기반 솔루션 및 플랫폼 개발
+
+1. Plan2do - 법령 기반 산업안전 RAG 시스템 구축 
+2. AIO (AI Orchestrator) - 폐쇄망 기반의 대규모 RAG 플랫폼 CORE 개발
 
 ## 🛠 Technical Expertise
 
