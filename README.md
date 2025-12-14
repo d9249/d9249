@@ -36,8 +36,9 @@
 ### AsianaIDT - AI/ML Engineer & Researcher (2025.07 - Current)
 인공지능 기반 솔루션 및 플랫폼 개발
 
-1. Plan2do - 법령 기반 산업안전 RAG 시스템 구축 
-2. AIO (AI Orchestrator) - 폐쇄망 기반의 대규모 RAG 플랫폼 CORE 개발
+- **'Plan2do'** - 법령 기반 산업안전 RAG 시스템 구축 
+- **'AIO (AI Orchestrator)'** - 폐쇄망 기반의 대규모 문서 기반 RAG 솔루션 CORE 개발
+- **'Jeani'** - AWS 서비스 기반의 멀티 에이전트를 통한 문서 분석 및 챗봇 시스템 구축 
 
 ## 🛠 Technical Expertise
 
