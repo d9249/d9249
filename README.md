@@ -1,16 +1,18 @@
 # Hi there 👋
 
-## AI Engineer & Research | CV, LLM, RS |
+## AI Engineer & Researcher
 
-**💡 전문 분야**: End-to-End AI 솔루션 구현 | 연구부터 상용화까지 전 과정 주도 | 이론과 실무를 겸비한 기술
+**"Building Bridge between AI Research and Real-World Value"**
 
-다양한 도메인에 연구 및 상용화를 경험한 AI/ML Engineer로서, 연구논문부터 상용서비스까지 전 과정을 주도하는 End-to-End AI 솔루션 전문가입니다.
+연구(Research)의 깊이가 실용적인 가치(Product)로 이어지도록 끊임없이 고민하고 탐구하는 **AI 엔지니어**입니다.
+단순한 기술 구현을 넘어, 비즈니스의 복잡한 문제를 정의하고 이를 최적의 **AI 아키텍처**로 해결하는 전 과정에 몰입합니다.
+
+**멀티 에이전트 오케스트레이션**과 **RAG 파이프라인** 등 고도화된 시스템을 설계하며 안정적인 서비스를 만드는 데 집중하고 있으며, 이러한 노력의 결실로 **CES 2025 혁신상** 및 **장관상** 수상 등의 성과를 거두었습니다. 화려한 기술보다 사용자에게 닿는 실질적인 가치를 최우선으로 생각합니다.
 
 ## 🏆 Awards & Recognition
 
 - **CES 2025 AI Innovation Awards** - 두 개 제품 Best of Innovation 수상 ('booxTory', 'arti')
 - **과학기술정보통신부 장관상** (WIS 2025 혁신상)
-- **서울 AI 허브 입주 선정** (2025)
 - **HD현대 AI Challenge** - 4위
 - **APIC-IST 2022 Best Paper Award**
 - **KIIT Best Paper Award** (2021)
