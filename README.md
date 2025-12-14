@@ -38,12 +38,17 @@
 
 - **'Plan2do'** - 법령 기반 산업안전 RAG 시스템 구축 
 - **'AIO (AI Orchestrator)'** - 폐쇄망 기반의 대규모 문서 기반 RAG 솔루션 CORE 개발
-- **'Jeani'** - AWS 서비스 기반의 멀티 에이전트를 통한 문서 분석 및 챗봇 시스템 구축 
+- **'Enterprise Gen-AI Solution' (AI Lead Architect)** - End-to-End 기업용 대규모 문서 생성 및 Market Intelligence 시스템 (25 Multi-Agent System)
+  - **Global Scale Multi-Agent Architecture**: 4-Layer Architecture (API-Orchestrator-Agent-Infra) 기반 **25개 전문 에이전트** 협업 시스템 설계. 복잡한 비즈니스 요구사항 분석부터 전문 문서 생성, 검증까지 전 공정 완전 자동화 (Phase 1~3 병렬 파이프라인).
+  - **Advanced RAG Strategy**: Internal Asset(Company Knowledge)과 실시간 Web Intelligence(Brave Search)를 결합한 **Dual-Knowledge Base** 전략 수립. Hybrid Search 및 Hierarchy Indexing을 통해 Context-Awareness 극대화.
+  - **Autonomous Quality Assurance**: LLM이 생성한 콘텐츠를 스스로 평가(Self-Reflection)하고, 품질 기준(Score > 0.7) 미달 시 재수정하는 **Iterative Generation Loop** 메커니즘 개발.
+  - **Serverless & Event-Driven**: AWS Lambda, DynamoDB, EventBridge를 활용한 **Full Serverless Backend** 구축. 비동기/병렬 처리를 위한 Event-Driven Architecture로 대규모 생성 작업의 안정성 확보.
+  - **Pipeline Orchestration**: Python 기반의 Custom Agent Orchestrator를 개발하여 복잡한 의존성을 가진 에이전트 간의 데이터 흐름 및 상태 관리 최적화. 
 
 ## 🛠 Technical Expertise
 
 ### AI/ML Core Technologies
-- **Large Language Models & RAG**: LangSmith, LangGraph, Agent 시스템, Prompt Engineering, 멀티모달 모델 활용
+- **Large Language Models & RAG**: Multi-Agent Orchestration, Advanced RAG (Hybrid Search, Hierarchy Indexing), Bedrock Knowledge Base, LangSmith, LangGraph, Prompt Engineering, 멀티모달 모델 활용
 - **Machine Learning Frameworks**: PyTorch, Scikit-learn, Pandas, NumPy
 - **Computer Vision**: OpenCV, ImageHash, Pillow 기반 영상처리, 객체 탐지 시스템  
 - **Recommendation Systems**: Graph Convolution Networks, 개인화 추천 알고리즘
@@ -54,8 +59,10 @@
 ### Back-end Development
 - **API Development**: FastAPI, Unicorn 기반 고성능 API 서버 구축
 - **Programming Languages**: Python (전문), AI/ML 도메인 특화 개발
+- **Serverless & Cloud Native**: AWS Lambda, EventBridge, SQS, DynamoDB 기반의 Event-Driven Architecture 설계
+- **Infrastructure as Code**: Terraform을 활용한 인프라 자동화 및 관리
+- **Web Frameworks**: Next.js 14 (App Router), React, Tailwind CSS 및 Streamlit 기반의 AI Application/Dashboard 개발
 - **Stream Processing**: Apache Kafka, Kafka UI 기반 실시간 데이터 처리
-- **Web Frameworks**: Streamlit 기반 ML 대시보드 및 프로토타입 개발
 
 ### Data Engineering & Database
 - **Vector Database**: Qdrant 활용 벡터 검색 및 임베딩 시스템
