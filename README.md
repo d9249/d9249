@@ -20,10 +20,13 @@
 ## 💼 Experience
 
 ### AsianaIDT - AI/ML Engineer & Researcher (2025.07 - Current)
+
 인공지능 기반 솔루션 및 플랫폼 개발
 
 **🚀 엔터프라이즈 AI 지식 관리 시스템 구축** *(2025.09 - 2026.01)*
+
 산업 특화 규정·법령 도메인 대상 Knowledge Graph + Vector 하이브리드 RAG 및 상태 기반 자동화 에이전트 구축
+
 - **Advanced RAG & Knowledge Graph**: 그래프 DB와 벡터 DB를 결합한 하이브리드 검색 시스템 구축. 다차원 멀티벡터 필드와 랭크 퓨전(Rank Fusion) 기법을 활용하여 도메인 맞춤형 다중 쿼리 모드 지원.
 - **Multi-Agent Orchestration**: 도메인 특화 안전관리 에이전트 설계. 데이터 수집 파이프라인부터 다단계 LLM 추론을 통한 분석 및 대책 수립까지 전 워크플로우 자동화.
 - **Performance Optimization**: 대규모 문서 처리 병목 해결을 위한 다계층(Multi-Layer) 비동기 처리 아키텍처 설계 및 동적 배치 처리 알고리즘 구현으로 임베딩 및 초기화 성능 획기적 개선.
@@ -31,14 +34,18 @@
 - **Data Pipeline Engineering**: 모듈형 플러그인 청킹 시스템 구축 및 복잡한 계층 구조의 문서(XML 등)에 대한 정밀 파싱 로직 구현.
 
 **🚀 문서 인식 및 리서치 벤치마크 통합 플랫폼 고도화** *(2026.01 - 2026.02)*
+
 단순 API를 연구 실험의 반복성, 통계적 해석, 운영 배포 가능성을 모두 갖춘 엔지니어링 플랫폼으로 고도화
+
 - **Research & Benchmark Pipeline**: 인식 모델 벤치마크 라우터와 오프라인 실험 자동화 스크립트를 병행 구축하여 데이터셋-실험-평가-보고 루프 단축.
 - **Integrated Experiment Console**: Next.js 기반 실험 대시보드 리팩터링. 정확도, 속도, 신뢰구간, 우위 분석 등 다층 통계 차트를 도입해 리서치 결과의 해석 가능성 및 의사결정 속도 개선.
 - **Robust Deployment**: Unified Docker Compose profile(운영/개발/GPU/리서치/모니터링) 전략을 설계해 환경 전환 비용 최소화 및 운영 재현성 확보. 
 - **Security Engineering**: 런타임 및 배포 구간의 지적 자산(모델) 유출 방지를 위해 암호화 로더 기반의 엔드투엔드 보안 파이프라인 도입.
 
 **🚀 엔터프라이즈 생성형 AI 솔루션 및 오케스트레이터 개발** *(2025.07 - 2025.11)*
+
 폐쇄망 기반 대규모 문서 RAG 솔루션 코어 및 End-to-End 기업용 Market Intelligence 시스템 개발
+
 - **Global Scale Multi-Agent Architecture**: 다계층(Multi-Layer) 아키텍처 기반의 대규모 다중 에이전트 협업 시스템 설계.
 - **Autonomous Quality Assurance**: LLM이 생성한 콘텐츠를 스스로 평가(Self-Reflection)하고 수정하는 Iterative Generation Loop 메커니즘 개발.
 - **Serverless & Event-Driven**: AWS Lambda, DynamoDB, EventBridge를 활용한 Full Serverless Backend 구축으로 대규모 생성 작업 안정성 확보.
@@ -46,6 +53,7 @@
 ---
 
 ### ArtygenSpace - AI/ML Engineer (2024.07 - 2025.07)
+
 혁신적인 AI 제품 개발을 총괄하며 국제적으로 기술력을 인정받은 AI 전문가로 활동
 
 **🚀 혁신 제품 개발 및 기술 리더십**
