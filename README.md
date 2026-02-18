@@ -19,6 +19,32 @@
 
 ## 💼 Experience
 
+### AsianaIDT - AI/ML Engineer & Researcher (2025.07 - Current)
+인공지능 기반 솔루션 및 플랫폼 개발
+
+**🚀 엔터프라이즈 AI 지식 관리 시스템 구축** *(2025.09 - 2026.01)*
+산업 특화 규정·법령 도메인 대상 Knowledge Graph + Vector 하이브리드 RAG 및 상태 기반 자동화 에이전트 구축
+- **Advanced RAG & Knowledge Graph**: 그래프 DB와 벡터 DB를 결합한 하이브리드 검색 시스템 구축. 다차원 멀티벡터 필드와 랭크 퓨전(Rank Fusion) 기법을 활용하여 도메인 맞춤형 다중 쿼리 모드 지원.
+- **Multi-Agent Orchestration**: 도메인 특화 안전관리 에이전트 설계. 데이터 수집 파이프라인부터 다단계 LLM 추론을 통한 분석 및 대책 수립까지 전 워크플로우 자동화.
+- **Performance Optimization**: 대규모 문서 처리 병목 해결을 위한 다계층(Multi-Layer) 비동기 처리 아키텍처 설계 및 동적 배치 처리 알고리즘 구현으로 임베딩 및 초기화 성능 획기적 개선.
+- **AI Observability**: LLM 관찰성(Observability) 인프라 구축 및 다수 에이전트 노드에 검색 모드별 트레이싱 적용. LLM 호출 지연시간 및 검색 품질 모니터링 체계 확립.
+- **Data Pipeline Engineering**: 모듈형 플러그인 청킹 시스템 구축 및 복잡한 계층 구조의 문서(XML 등)에 대한 정밀 파싱 로직 구현.
+
+**🚀 문서 인식 및 리서치 벤치마크 통합 플랫폼 고도화** *(2026.01 - 2026.02)*
+단순 API를 연구 실험의 반복성, 통계적 해석, 운영 배포 가능성을 모두 갖춘 엔지니어링 플랫폼으로 고도화
+- **Research & Benchmark Pipeline**: 인식 모델 벤치마크 라우터와 오프라인 실험 자동화 스크립트를 병행 구축하여 데이터셋-실험-평가-보고 루프 단축.
+- **Integrated Experiment Console**: Next.js 기반 실험 대시보드 리팩터링. 정확도, 속도, 신뢰구간, 우위 분석 등 다층 통계 차트를 도입해 리서치 결과의 해석 가능성 및 의사결정 속도 개선.
+- **Robust Deployment**: Unified Docker Compose profile(운영/개발/GPU/리서치/모니터링) 전략을 설계해 환경 전환 비용 최소화 및 운영 재현성 확보. 
+- **Security Engineering**: 런타임 및 배포 구간의 지적 자산(모델) 유출 방지를 위해 암호화 로더 기반의 엔드투엔드 보안 파이프라인 도입.
+
+**🚀 엔터프라이즈 생성형 AI 솔루션 및 오케스트레이터 개발** *(2025.07 - 2025.11)*
+폐쇄망 기반 대규모 문서 RAG 솔루션 코어 및 End-to-End 기업용 Market Intelligence 시스템 개발
+- **Global Scale Multi-Agent Architecture**: 다계층(Multi-Layer) 아키텍처 기반의 대규모 다중 에이전트 협업 시스템 설계.
+- **Autonomous Quality Assurance**: LLM이 생성한 콘텐츠를 스스로 평가(Self-Reflection)하고 수정하는 Iterative Generation Loop 메커니즘 개발.
+- **Serverless & Event-Driven**: AWS Lambda, DynamoDB, EventBridge를 활용한 Full Serverless Backend 구축으로 대규모 생성 작업 안정성 확보.
+
+---
+
 ### ArtygenSpace - AI/ML Engineer (2024.07 - 2025.07)
 혁신적인 AI 제품 개발을 총괄하며 국제적으로 기술력을 인정받은 AI 전문가로 활동
 
@@ -33,57 +59,30 @@
 - AI바우처 운영지원 사업 공급기업 선정 (2025) - 4개 프로젝트 총괄
 - 중소기업 연구인력지원사업 협약 (2025)
 
----
-
-### AsianaIDT - AI/ML Engineer & Researcher (2025.07 - Current)
-인공지능 기반 솔루션 및 플랫폼 개발
-
-- **'Plan2do'** - 법령 기반 산업안전 RAG 시스템 구축 
-- **'AIO (AI Orchestrator)'** - 폐쇄망 기반의 대규모 문서 기반 RAG 솔루션 CORE 개발
-- **'Enterprise Gen-AI Solution' (AI Lead Architect)** - End-to-End 기업용 대규모 문서 생성 및 Market Intelligence 시스템 (25 Multi-Agent System)
-  - **Global Scale Multi-Agent Architecture**: 4-Layer Architecture (API-Orchestrator-Agent-Infra) 기반 **25개 전문 에이전트** 협업 시스템 설계. 복잡한 비즈니스 요구사항 분석부터 전문 문서 생성, 검증까지 전 공정 완전 자동화 (Phase 1~3 병렬 파이프라인).
-  - **Advanced RAG Strategy**: Internal Asset(Company Knowledge)과 실시간 Web Intelligence(Brave Search)를 결합한 **Dual-Knowledge Base** 전략 수립. Hybrid Search 및 Hierarchy Indexing을 통해 Context-Awareness 극대화.
-  - **Autonomous Quality Assurance**: LLM이 생성한 콘텐츠를 스스로 평가(Self-Reflection)하고, 품질 기준(Score > 0.7) 미달 시 재수정하는 **Iterative Generation Loop** 메커니즘 개발.
-  - **Serverless & Event-Driven**: AWS Lambda, DynamoDB, EventBridge를 활용한 **Full Serverless Backend** 구축. 비동기/병렬 처리를 위한 Event-Driven Architecture로 대규모 생성 작업의 안정성 확보.
-  - **Pipeline Orchestration**: Python 기반의 Custom Agent Orchestrator를 개발하여 복잡한 의존성을 가진 에이전트 간의 데이터 흐름 및 상태 관리 최적화. 
-
 ## 🛠 Technical Expertise
 
 ### AI/ML Core Technologies
-- **Large Language Models & RAG**: Multi-Agent Orchestration, Advanced RAG (Hybrid Search, Hierarchy Indexing), Bedrock Knowledge Base, LangSmith, LangGraph, Prompt Engineering, 멀티모달 모델 활용
+- **Large Language Models & RAG**: Multi-Agent Orchestration, Advanced RAG (Vector, Graph, Hybrid Search, Hierarchy Indexing), LangSmith, Langfuse, LangGraph, Prompt Engineering
 - **Machine Learning Frameworks**: PyTorch, Scikit-learn, Pandas, NumPy
 - **Computer Vision**: OpenCV, ImageHash, Pillow 기반 영상처리, 객체 탐지 시스템  
-- **Recommendation Systems**: Graph Convolution Networks, 개인화 추천 알고리즘
-- **Data Processing**: BeautifulSoup, Pandas, NumPy를 활용한 데이터 전처리 및 분석
 - **Model Architecture**: CNN, RNN, GCN 등 다양한 신경망 아키텍처 설계 및 최적화
-- **Deep Learning Frameworks**: PyTorch, TensorFlow 기반 모델 설계 및 학습
 
 ### Back-end Development
-- **API Development**: FastAPI, Unicorn 기반 고성능 API 서버 구축
+- **API Development**: FastAPI, Uvicorn, Gunicorn 기반 고성능 API 서버 구축
 - **Programming Languages**: Python (전문), AI/ML 도메인 특화 개발
 - **Serverless & Cloud Native**: AWS Lambda, EventBridge, SQS, DynamoDB 기반의 Event-Driven Architecture 설계
-- **Infrastructure as Code**: Terraform을 활용한 인프라 자동화 및 관리
 - **Web Frameworks**: Next.js 14 (App Router), React, Tailwind CSS 및 Streamlit 기반의 AI Application/Dashboard 개발
-- **Stream Processing**: Apache Kafka, Kafka UI 기반 실시간 데이터 처리
 
 ### Data Engineering & Database
-- **Vector Database**: Qdrant 활용 벡터 검색 및 임베딩 시스템
+- **Vector & Graph Database**: Milvus, Neo4j, Qdrant 활용 벡터 검색 및 지식 그래프 통합 시스템 구축
 - **Search & Analytics**: Elasticsearch, Logstash, Kibana (ELK Stack) 구축 및 운영
-- **Data Visualization**: Kibana 대시보드 구성 및 로그 분석
+- **RDBMS & Cache**: PostgreSQL, Redis 
 
 ### MLOps & Infrastructure
-- **Experiment Tracking**: Weights & Biases (wandb) 기반 모델 학습 추적 및 실험 관리
-- **Container Technology**: Docker, Docker Compose 기반 컨테이너화
-- **Orchestration**: Kubernetes 클러스터 구축 및 배포 자동화
-- **Cloud Platforms**: AWS (SageMaker, CLI), Naver Cloud Platform 인프라 관리
-- **Operating Systems**: Ubuntu 서버 환경 구축 및 관리
+- **Container Technology**: Docker, Docker Compose (Multi-profile), Kubernetes
+- **Observability & Tracking**: Langfuse, Prometheus, Grafana, Loki, Weights & Biases (wandb)
+- **Infrastructure as Code**: Terraform을 활용한 인프라 자동화 및 관리
 - **CI/CD**: GitHub Actions 기반 자동화 파이프라인 구축
-
-### Development & Collaboration Tools
-- **API Testing**: Postman 활용 API 개발 및 테스트
-- **Documentation**: Notion 기반 기술 문서화 및 협업
-- **Testing**: PyTest 기반 단위 테스트 및 통합 테스트
-- **Version Control**: Git, GitHub 기반 협업 및 코드 관리
 
 ## 🎓 Education
 
