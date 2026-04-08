@@ -33,14 +33,15 @@
 - **AI Observability**: LLM 관찰성(Observability) 인프라 구축 및 다수 에이전트 노드에 검색 모드별 트레이싱 적용. LLM 호출 지연시간 및 검색 품질 모니터링 체계 확립.
 - **Data Pipeline Engineering**: 모듈형 플러그인 청킹 시스템 구축 및 복잡한 계층 구조의 문서(XML 등)에 대한 정밀 파싱 로직 구현.
 
-**🚀 문서 인식 및 리서치 벤치마크 통합 플랫폼 고도화** *(2026.01 - 2026.02)*
+🚀 문서 OCR · 로직 기반 테이블 구조 복원 · Parser 통합 문서 복원 플랫폼 구축 (2026.02 - 현재, 2026.04 기준)
 
-단순 API를 연구 실험의 반복성, 통계적 해석, 운영 배포 가능성을 모두 갖춘 엔지니어링 플랫폼으로 고도화
+단순 OCR API를 넘어, 문서 레이아웃 분석, 로직 기반 테이블 구조 복원, 정량 벤치마크, parser 기반 문서 재구성, 운영형 웹 콘솔과 보안 배포 환경까지 하나의 제품/연구 플랫폼으로 확장한 프로젝트
 
-- **Research & Benchmark Pipeline**: 인식 모델 벤치마크 라우터와 오프라인 실험 자동화 스크립트를 병행 구축하여 데이터셋-실험-평가-보고 루프 단축.
-- **Integrated Experiment Console**: Next.js 기반 실험 대시보드 리팩터링. 정확도, 속도, 신뢰구간, 우위 분석 등 다층 통계 차트를 도입해 리서치 결과의 해석 가능성 및 의사결정 속도 개선.
-- **Robust Deployment**: Unified Docker Compose profile(운영/개발/GPU/리서치/모니터링) 전략을 설계해 환경 전환 비용 최소화 및 운영 재현성 확보. 
-- **Security Engineering**: 런타임 및 배포 구간의 지적 자산(모델) 유출 방지를 위해 암호화 로더 기반의 엔드투엔드 보안 파이프라인 도입.
+- **Logic-based Table Reconstruction**: OCR bbox와 선분 정보를 결합해 row/column grouping, overlap 기반 column 추정, spanned cell·merged header 복원, fallback assignment, body-first hybrid selection, line-hint/post-fusion rescue, row-stability guard 등 규칙 기반 테이블 구조 복원 엔진을 직접 설계·고도화.
+- **Accuracy Measurement & Validation**: 금융·법률 문서의 HTML table GT를 기준으로 행 수 일치(Row), 열 수 일치(Col), 셀 매칭 정확도(Cell F1), 셀 텍스트 오류율(CER), 표 전체 구조·텍스트 유사도(TEDS/TEDS-S)를 함께 측정하는 평가 체계를 구축. hf_korean_table 100샘플 기준 Proposed 방식이 TEDS 0.9174, Cell F1 0.9934, row_accuracy 1.00, column_accuracy 0.96을 기록했고, fixed_threshold (TEDS 0.7540), kmeans (TEDS 0.3304) 대비 유의미한 개선을 검증. 이후 hf_finance_legal_mrc 480샘플 최신 실행에서는 TEDS 0.9188, TEDS-S 0.9506, Cell F1 0.9702까지 고도화.
+- **Parser-driven Document Reconstruction**: OCR·layout·table 결과를 문서 단위 출력으로 재조립하기 위해 parser를 메인 앱에 통합하고, digital text 추출, PDF tag 해석, reading order 정렬, table merge, document assembly, visual block payload 구성을 포함한 문서 복원 로직을 구현. 단순 텍스트 추출이 아니라 문단·표·시각 블록 단위의 구조화된 문서 결과를 생성하도록 확장.
+- **Research & Benchmark Platform**: FastAPI benchmark router와 Next.js 실험 콘솔을 구축해 dataset stats, 다중 메서드 비교, CI95·pairwise 비교·ablation 분석, async experiment job, checkpoint/resume/cancel/stale handling, 결과 저장·재조회 흐름을 일원화.
+- **Product & Operations**: 이미지/PDF/배치 OCR, history 저장·수정·복원, template 기반 영역 OCR, guide 기반 anchor correction, OCR 후처리 LLM enrichment, /main 작업실 UX, JWT/RBAC 기반 관리자 기능, RSA 하이브리드 암호화 secure build, unified/dev/gpu/research/monitoring Docker Compose 프로필, Prometheus/Grafana/Loki 운영 환경까지 구축.
 
 **🚀 엔터프라이즈 생성형 AI 솔루션 및 오케스트레이터 개발** *(2025.07 - 2025.11)*
 
