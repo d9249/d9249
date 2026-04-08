@@ -47,9 +47,11 @@
 
 폐쇄망 기반 대규모 문서 RAG 솔루션 코어 및 End-to-End 기업용 Market Intelligence 시스템 개발
 
-- **Global Scale Multi-Agent Architecture**: 다계층(Multi-Layer) 아키텍처 기반의 대규모 다중 에이전트 협업 시스템 설계.
-- **Autonomous Quality Assurance**: LLM이 생성한 콘텐츠를 스스로 평가(Self-Reflection)하고 수정하는 Iterative Generation Loop 메커니즘 개발.
-- **Serverless & Event-Driven**: AWS Lambda, DynamoDB, EventBridge를 활용한 Full Serverless Backend 구축으로 대규모 생성 작업 안정성 확보.
+- **Global Scale Multi-Agent Architecture**: 4-Layer Architecture (API-Orchestrator-Agent-Infra) 기반 25개 전문 에이전트 협업 시스템 설계. 복잡한 비즈니스 요구사항 분석부터 전문 문서 생성, 검증까지 전 공정 완전 자동화 (Phase 1~3 병렬 파이프라인).
+- **Advanced RAG Strategy**: Internal Asset(Company Knowledge)과 실시간 Web Intelligence(Brave Search)를 결합한 Dual-Knowledge Base 전략 수립. Hybrid Search 및 Hierarchy Indexing을 통해 Context-Awareness 극대화.
+- **Autonomous Quality Assurance**: LLM이 생성한 콘텐츠를 스스로 평가(Self-Reflection)하고, 품질 기준 미달 시 재수정하는 Iterative Generation Loop 메커니즘 개발.
+- **Serverless & Event-Driven**: AWS Lambda, DynamoDB, EventBridge를 활용한 Full Serverless Backend 구축. 비동기/병렬 처리를 위한 Event-Driven Architecture로 대규모 생성 작업의 안정성 확보.
+- **Pipeline Orchestration**: Python 기반의 Custom Agent Orchestrator를 개발하여 복잡한 의존성을 가진 에이전트 간의 데이터 흐름 및 상태 관리 최적화.
 
 ---
 
