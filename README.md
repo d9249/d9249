@@ -10,7 +10,3 @@
 ## 📫 Contact
 
 **Email:** dodo9249@gmail.com
-
-<img src="https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v1?theme=blue&name=Sangmin%20Lee&job=AI%20Researcher&company=AsianaIDT&address=Seoul%2C%20korea&about=Work%20is%20so%20hard..&email=leesm4%40asianaidt.com&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Fmeanl">
-
----
